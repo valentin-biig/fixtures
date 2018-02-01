@@ -1,0 +1,5 @@
+AppBundle\Entity\Alice:
+    alice{1..5}:
+        name: 'coucou'
+        entier: '<{coucou}>'
+        deletedAt: '<(new \DateTime("now"))>'
