@@ -24,7 +24,7 @@ The Symfony Standard Edition is configured with the following defaults:
 
   * Swiftmailer;
 
-  * Annotations enabled for everything yolo.
+  * Annotations enabled for everything yolo toto.
 
 It comes pre-configured with the following bundles:
 
